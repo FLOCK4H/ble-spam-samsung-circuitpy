@@ -6,3 +6,9 @@ that were both based on [Sour Apple Attack](https://github.com/RapierXbox/ESP32-
 which consecutively displayed pop-ups on Samsung device with an **Add New Device** request.
 
 This script **does not use any Pin references**, which means - If you have built-in BLE module, feel free to test this out.
+
+# Details
+
+**CircuitPython version:** 9.0.5
+**External libraries**: None
+**License**: MIT
