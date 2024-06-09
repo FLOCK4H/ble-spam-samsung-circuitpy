@@ -9,8 +9,12 @@ This script **does not use any Pin references**, which means - If you have built
 
 # Details
 
-**CircuitPython version:** 9.0.5
+**CircuitPython version**: 9.0.5
 
 **External libraries**: None
 
 **License**: MIT
+
+**Hardware used**: Atom S3U
+
+**Chip**: ESP32S3
